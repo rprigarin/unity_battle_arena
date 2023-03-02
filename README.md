@@ -25,7 +25,7 @@ The game is based on League of Legends and thus shares a lot of the same control
 
 * **Right Mouse Button**	- makes the player character move to the clicked location or target an enemy. If targeting an enemy and that enemy is within the player's attack range, the player character will start launching basic attacks (melee or ranged) at an interval, until the enemy dies or the player clicks elsewhere
 
-* **A**		- targets an enemy closest to the mouse cursor. This is similar to the attack on move bind from LoL, often utilised by ranged champions  
+* **A + Left Mouse Button**		- targets an enemy closest to the mouse cursor. This is similar to the attack on move bind from LoL, often utilised by ranged champions  
 
 * **Q/W/E/R**	- player character's abilities corresponding to each key
 
