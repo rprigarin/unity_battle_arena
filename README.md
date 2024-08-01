@@ -1,5 +1,5 @@
-# Unity MOBA experiment
-A small MOBA proof of concept written in Unity.
+# MOBA-inspired game
+A small game with controls taking inspiration from popular MOBA games. Written in Unity.
 
 
 ## About
